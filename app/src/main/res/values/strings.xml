@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">BTP-Map</string>
+    <string name="app_name">BTP Map</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="editText1">Switch</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings1">MenuButton1</string>
+    <string name="action_settings2">MenuButton2</string>
+    <string name="action_settings3">MenuButton3</string>
+    <string name="switch1">Switch1</string>
+    <string name="switch2">Switch2</string>
+    <string name="textview">TextView</string>
+    <string name="switch3">Switch3</string>
+
 </resources>
